@@ -97,7 +97,6 @@ function teaParty(tea, candy){
     return num;
 }
 
-
 function blackjack(param1, param2){
     var num ="";
     if (param1 <= 21 && param2 <= 21 && param1 > 0 && param2 > 0){
